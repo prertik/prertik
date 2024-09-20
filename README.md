@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 ![](https://media.giphy.com/media/mCRJDo24UvJMA/source.gif)
 
 
-
-Other places, I have code in:[prertik @ xfce](https://gitlab.xfce.org/prertik), [pratik-fractl](https://github.com/pratik-fractl), [kitrerp](https://github.com/kitrerp)
+I might not always make contribution from this Github account.
+I have accounts on Gitlab in multiple instances and other Github accounts which I might use here and there.
+Other places, I have code in: [prertik @ xfce](https://gitlab.xfce.org/prertik), [pratik-fractl](https://github.com/pratik-fractl), [kitrerp](https://github.com/kitrerp)
